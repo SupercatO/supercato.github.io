@@ -52,7 +52,8 @@ body {
   margin: 0;
   font-size: 35px;
   font-family: 'PressStart2P';
-  color: #A7DCEA;
+  color: #fefff5;
+  text-shadow:0 0 4.5px #A7DCEA;
 }
 
 .park-subtitle {
